@@ -27,4 +27,3 @@ public class Program
         Console.WriteLine("biba");
     }
 }
-//добавил комментарий
